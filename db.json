@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "Meme",
+      "day": "6/2 a las 11",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "quiero ver tele dgfttgdfgdfg",
+      "day": "5 de octubre 20:00 pm",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "tengo que dormir",
+      "day": "10 agosto 11:00 am",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "tengo que dormir",
+      "day": "10 agosto 1:00 am",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
