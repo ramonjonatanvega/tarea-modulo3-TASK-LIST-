@@ -8,7 +8,7 @@ Para correr la aplicación web debemos:
 
 - Clonar el repositorio
 - Iniciar el deploy de angular tipeando en consola `npm start`.
-- Para ejecutar el server debemos también en consola tipear `json-server --watch db.json`
+- Para ejecutar el server debemos también en consola tipear  `npm run server`
 <br></br><br></br>
 ## 🙋‍♂️ Hola, Soy Jonatan Vega
 :nerd_face: Me encuentro cursando la carrera de fullstack developer 
