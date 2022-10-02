@@ -23,6 +23,12 @@
       "day": "10 agosto 1:00 am",
       "reminder": true,
       "id": 5
+    },
+    {
+      "text": "tengo que dormir",
+      "day": "5 de octubre 20:00 pmhthyrtyhrtyh",
+      "reminder": true,
+      "id": 6
     }
   ]
 }
